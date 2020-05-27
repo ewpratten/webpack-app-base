@@ -1,2 +1,2 @@
-# webpack-app-base
-My template repo for building webpack apps
+# homebase
+A webapp for tracking meeting participants
