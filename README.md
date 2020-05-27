@@ -1,2 +1,2 @@
-# homebase
-A webapp for tracking meeting participants
+# webpack-app-base
+Make sure to edit `package.json`
